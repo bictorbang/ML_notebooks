@@ -4,6 +4,9 @@ Fantastic book on Machine Learning by Aurélien Géron. It's the first volume of
 
 There exists an [official repo](https://github.com/ageron/handson-ml3) as a support, which I'll be using extensively.
 
+### About this repo
+
+I already read the book several times over the years, but never took notes... I figured it would be a nice time to do so.
 
 ### About the data
 
